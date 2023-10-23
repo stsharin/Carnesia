@@ -34,7 +34,7 @@ The test cases are organized into categories based on the application's function
 
 For your convenience, we have provided a sample structure for test cases in the `test cases` tab.
 
-![Screenshot of Carnesia App](https://img.freepik.com/free-photo/cascade-boat-clean-china-natural-rural_1417-1356.jpg?w=996&t=st=1698052531~exp=1698053131~hmac=dee56573d7cac64756de6c3691393d75238a9727e72ccaf61f628618e50ab103)
+![Screenshot of Carnesia Test Cases](https://drive.google.com/file/d/1UcwgxjytogggGJCq_irKpLDOqL40S_b7/view?usp=sharing)
 
 ## Test Execution
 
@@ -56,6 +56,8 @@ If you encounter any issues or defects during testing, please report them prompt
 3. Attach relevant screenshots or additional documentation, if applicable.
 4. Assign the issue to the responsible team member.
 5. Use appropriate labels and priorities to categorize the issue.
+
+![Screenshot of Carnesia Bug Report]([https://drive.google.com/file/d/1UcwgxjytogggGJCq_irKpLDOqL40S_b7/view?usp=sharing](https://drive.google.com/file/d/1Vghq4V7FMYSDeouy6JuYBSsgL8N70nOH/view?usp=sharing))
 
 ## Test Results
 
