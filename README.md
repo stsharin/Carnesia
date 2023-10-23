@@ -34,8 +34,7 @@ The test cases are organized into categories based on the application's function
 
 For your convenience, we have provided a sample structure for test cases in the `test cases` tab.
 
-![Screenshot of Carnesia Test Cases]([url=https://ibb.co/mTyw4gH][img]https://i.ibb.co/bmvZXDr/cnsTC.png[/img][/url]
-[url=https://imgbb.com/]image hosting[/url])
+![Screenshot of Carnesia Test Cases](https://ibb.co/mTyw4gH)
 
 ## Test Execution
 
