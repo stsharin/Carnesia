@@ -34,6 +34,8 @@ The test cases are organized into categories based on the application's function
 
 For your convenience, we have provided a sample structure for test cases in the `test cases` tab.
 
+![Screenshot of Carnesia App](https://img.freepik.com/free-photo/cascade-boat-clean-china-natural-rural_1417-1356.jpg?w=996&t=st=1698052531~exp=1698053131~hmac=dee56573d7cac64756de6c3691393d75238a9727e72ccaf61f628618e50ab103)
+
 ## Test Execution
 
 To execute the manual test cases for Carnesia, follow these general steps:
