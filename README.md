@@ -32,7 +32,7 @@ The test cases are organized into categories based on the application's function
 - **Actual Results**: The actual outcome or behavior observed during testing.
 - **Status**: The status of the test case (e.g., Pass/Fail).
 
-For your convenience, we have provided a sample structure for test cases in the `test_cases.md` file.
+For your convenience, we have provided a sample structure for test cases in the `test cases` tab.
 
 ## Test Execution
 
@@ -57,4 +57,4 @@ If you encounter any issues or defects during testing, please report them prompt
 
 ## Test Results
 
-The test results should be regularly updated in the `test_results.md` file, which should indicate the status of each test case. Any failed test cases should be documented with detailed information about the failure.
+The test results should be regularly updated in the `test results` tab, which should indicate the status of each test case. Any failed test cases should be documented with detailed information about the failure.
