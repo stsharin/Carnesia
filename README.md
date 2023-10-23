@@ -67,8 +67,8 @@ To provide a clear overview of the testing progress, we maintain a test matrix t
 
 ![cnsTM](https://github.com/stsharin/Carnesia/assets/37589935/c3a7b65c-a6c4-4525-939f-7ba0acbf2682)
 
-## Test Results
+## Test Case Report
 
-The test results should be regularly updated in the `test_results.md` file, which should indicate the status of each test case. Any failed test cases should be documented with detailed information about the failure.
+The test case report should be regularly updated in the `test case report` tab, which should indicate the status of each test case. Any failed test cases should be documented with detailed information about the failure.
 
 ![cnsTCR](https://github.com/stsharin/Carnesia/assets/37589935/d40dcd8e-3159-4b35-9997-40972be55c07)
