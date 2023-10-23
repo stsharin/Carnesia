@@ -34,8 +34,8 @@ The test cases are organized into categories based on the application's function
 
 For your convenience, we have provided a sample structure for test cases in the `test cases` tab.
 
-![Screenshot of Carnesia Test Cases](![cnsTC](https://github.com/stsharin/Carnesia/assets/37589935/3b413eb4-d05d-48f0-a9bf-67c6c54924b9)
-)
+![cnsTC](https://github.com/stsharin/Carnesia/assets/37589935/8222b602-8a35-477e-b8db-c3bf65721455)
+
 
 ## Test Execution
 
@@ -52,14 +52,16 @@ To execute the manual test cases for Carnesia, follow these general steps:
 
 If you encounter any issues or defects during testing, please report them promptly. To report a bug, follow these steps:
 
-1. Create a new issue in the GitHub repository.
-2. Provide a detailed description of the issue, including steps to reproduce.
-3. Attach relevant screenshots or additional documentation, if applicable.
-4. Assign the issue to the responsible team member.
-5. Use appropriate labels and priorities to categorize the issue.
+1. Provide a detailed description of the issue, including steps to reproduce.
+2. Attach relevant screenshots or additional documentation, if applicable.
+3. Assign the issue to the responsible team member.
+4. Use appropriate labels and priorities to categorize the issue.
 
-![Screenshot of Carnesia Bug Report](![cnsBug](https://github.com/stsharin/Carnesia/assets/37589935/f11238e2-5323-4b7a-aaa0-e464aa625e7f))
+![cnsBug](https://github.com/stsharin/Carnesia/assets/37589935/02a8b88d-bd9e-41f7-ae32-641675bcab4d)
+
 
 ## Test Results
 
 The test results should be regularly updated in the `test results` tab, which should indicate the status of each test case. Any failed test cases should be documented with detailed information about the failure.
+
+![cnsTCR](https://github.com/stsharin/Carnesia/assets/37589935/d40dcd8e-3159-4b35-9997-40972be55c07)
