@@ -11,7 +11,6 @@ Welcome to the Carnesia Manual Testing repository. This document outlines the ma
 - [Test Execution](#test-execution)
 - [Bug Reporting](#bug-reporting)
 - [Test Results](#test-results)
-- [Contributing](#contributing)
 
 ## Prerequisites
 
@@ -59,11 +58,3 @@ If you encounter any issues or defects during testing, please report them prompt
 ## Test Results
 
 The test results should be regularly updated in the `test_results.md` file, which should indicate the status of each test case. Any failed test cases should be documented with detailed information about the failure.
-
-## Contributing
-
-We encourage contributions from the testing community. If you identify additional test scenarios or improvements to the existing test cases, please feel free to create pull requests or suggest changes to enhance the manual testing process for Carnesia.
-
-Thank you for your valuable contributions to ensure the quality and reliability of the Carnesia project.
-
-Happy testing! 🧪🔍✨
